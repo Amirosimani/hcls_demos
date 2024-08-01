@@ -1,0 +1,15 @@
+### common python ###
+pandas==2.1.2
+numpy==1.26.1
+Rouge==1.0.1
+streamlit==1.28.1
+PyPDF2==3.0.1
+# neo4j==5.14.1
+
+### google ###
+google-generativeai==0.2.2
+google-cloud-aiplatform==1.38.1
+# google-cloud-logging
+
+### langchain ###
+langchain==0.0.352
